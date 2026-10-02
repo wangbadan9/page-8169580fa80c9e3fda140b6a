@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-3dc657eeee.miaotk.cn/sitemap.xml

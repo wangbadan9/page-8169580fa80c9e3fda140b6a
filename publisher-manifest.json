@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "bb2b36a6f024a7a3017a7f0e",
+  "owner": "wangbadan9",
+  "repo": "page-8169580fa80c9e3fda140b6a",
+  "title": "TNT",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8169580fa80c9e3fda140b6a",
+      "a": "TNT",
+      "b": "",
+      "entity": "TNT",
+      "brand": "TNT",
+      "separator": "",
+      "path": "index.html",
+      "hash": "899b1a62e1e70aab0179aac729a9d8d6a56c1ed264643375e31b52659ca4f27f",
+      "content": {
+        "keyword1": "TNT",
+        "keyword2": "",
+        "primary_entity": "TNT",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TNT 提供稳定机场订阅与多端加速客户端指引。本页说明套餐、配置流程、使用场景与官方下载方式，帮助你完成节点导入与网络加速。",
+          "AI_DESCRIPTION": "TNT 提供稳定机场订阅与多端加速客户端指引。本页说明套餐、配置流程、使用场景与官方下载方式，帮助你完成节点导入与网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;background:#f6f3ec;color:#1c241e;font:16px/1.75 \"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif}*{box-sizing:border-box}img,svg,video{max-width:100%}a{color:#1b4332;text-decoration:underline}header,footer{background:#1b4332;color:#eef6ef}header a,footer a,.nav a{color:#d8f3dc;text-decoration:none}header{padding:18px 0 8px}.inner{max-width:980px;margin:0 auto;padding:0 16px}header .brand{font-size:1.35rem;font-weight:700;letter-spacing:.04em}header .tag{margin:6px 0 14px;color:#cfe7d4;font-size:.95rem}.nav{display:flex;flex-wrap:wrap;gap:10px 16px;padding-bottom:12px}.nav a{padding:4px 0}main{display:block;padding:8px 0 40px}h1{font-size:1.7rem;line-height:1.35;color:#1b4332;margin:22px 0 12px}h2{font-size:1.35rem;color:#1b4332;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #2d6a4f}h3{font-size:1.08rem;color:#2d6a4f;margin:16px 0 8px}p,li{color:#2a332c}.lead{font-size:1.02rem}.panel{background:#fff;border:1px solid #d5e0d8;border-radius:10px;padding:16px 18px;margin:12px 0}.stagger{display:flex;flex-wrap:wrap;gap:16px;align-items:stretch;margin:12px 0}.stagger.reverse{flex-direction:row-reverse}.col{flex:1 1 280px;background:#fff;border:1px solid #d5e0d8;border-radius:10px;padding:16px 18px}.plans{display:flex;flex-wrap:wrap;gap:14px}.plan{flex:1 1 250px;background:#fff;border:1px solid #c9d9ce;border-radius:10px;padding:16px}.plan.featured{background:#eef5f0;border:2px solid #1b4332}.price{font-size:1.35rem;color:#1b4332;font-weight:700}.annual{color:#3d5c46;font-size:.92rem;margin:4px 0 10px}.plan ul{margin:0;padding-left:18px}.steps{counter-reset:step}.step{display:flex;flex-wrap:wrap;gap:16px;margin:14px 0;align-items:flex-start}.step:nth-child(even){flex-direction:row-reverse}.num{flex:0 0 48px;height:48px;border-radius:50%;background:#1b4332;color:#f6f3ec;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:1.1rem}.step .body{flex:1 1 240px;background:#fff;border:1px solid #d5e0d8;border-radius:10px;padding:14px 16px}details{background:#fff;border:1px solid #c5d4c8;border-radius:8px;margin:8px 0;padding:8px 14px}summary{font-weight:700;color:#1b4332;cursor:pointer}details p{margin:8px 0 6px}ul.clean{margin:8px 0;padding-left:18px}.adbox,.friends,.map{background:#fff;border:1px dashed #8aa890;border-radius:10px;padding:14px 16px;margin:12px 0}.friends a,.map a{margin-right:12px;display:inline-block;margin-bottom:6px}footer{padding:22px 0;font-size:.9rem;color:#d5e6d9}footer p{color:#d5e6d9}@media (max-width:640px){h1{font-size:1.45rem}.price{font-size:1.2rem}.nav{font-size:.92rem}}</style><header><div class=\"inner\"><div class=\"brand\">TNT 官方网站</div><p class=\"tag\">机场订阅 · VPN 梯子 · 网络加速器 · 客户端下载</p><nav class=\"nav\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#clients\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作推广</a><a href=\"#links\">友情链接</a><a href=\"#sitemap\">站点地图</a></nav></div></header><main class=\"inner\"><h1>TNT 官方网站：机场订阅、VPN 梯子与客户端下载</h1><section id=\"intro\"><h2>TNT 品牌简介</h2><p class=\"lead\">TNT 是面向跨境访问与日常加速需求的网络服务品牌。本站为 TNT 官方网站，集中说明机场订阅获取方式、套餐差异、节点使用思路以及各平台客户端的导入步骤，方便你从选购到连上线路一次完成。</p><p>TNT 将线路资源分成普通节点池、原生流媒体线路和 IPLC 专线三类，分别对应浏览、影音与游戏场景。基础版覆盖常规访问；旗舰版强化解锁与游戏延迟；团队版面向多设备与定制分流。所有方案均提供可更新订阅，导入 Clash、Shadowrocket、Surge、v2rayN 等客户端后即可按延迟选择节点。</p><div class=\"panel\"><h3>官方身份与使用边界</h3><p>请通过本页公示的套餐与配置流程识别 TNT 官方渠道，避免来路不明的镜像站点。TNT 提供的是网络加速与订阅配置信息服务，使用时请遵守所在地法律法规与目标网站条款，勿将服务用于未授权访问或任何违法用途。</p></div></section><section id=\"plans\"><h2>TNT 套餐与订阅说明</h2><p>以下为当前官方公示方案。流量按自然月重置，同时在线设备数以套餐为准。年付可锁定优惠价，适合长期把 TNT 当作主力加速器的用户。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p>订阅开通后，用户中心会给出通用订阅链接。将该链接导入客户端并更新节点，即可在香港、日本、新加坡、美国等入口间切换。旗舰版与团队版优先分配 IPLC 与高带宽入口，更适合直播、会议和联机游戏。</p></section><section id=\"scenes\"><h2>TNT 使用场景</h2><div class=\"stagger\"><div class=\"col\"><h3>流媒体与资讯</h3><p>需要稳定观看海外影音或阅读外站资讯时，选择标注原生解锁的节点，并在客户端开启对应分流规则，避免视频流量误走普通线路导致卡顿或地区限制。</p></div><div class=\"col\"><h3>跨境办公协作</h3><p>文档、邮箱与会议工具对丢包敏感。建议使用旗舰版或团队版中延迟更低的专线入口，把办公域名走代理、国内站点直连，减少来回绕路。</p></div></div><div class=\"stagger reverse\"><div class=\"col\"><h3>游戏与实时语音</h3><p>国际服对 RTT 要求高。IPLC 专线适合把游戏与语音走独立通道。连接后先在客户端查看延迟，再锁定一条稳定节点，避免频繁自动切换。</p></div><div class=\"col\"><h3>多设备同时在线</h3><p>手机、电脑与平板共用同一订阅时，注意套餐设备上限。团队版可覆盖工作室或家庭多终端；个人用户用基础版或旗舰版即可覆盖日常。</p></div></div></section><section id=\"guide\"><h2>配置流程：从订阅到连通</h2><p>TNT 的核心体验取决于配置是否正确。请按下列顺序操作，多数连接失败来自订阅未更新、客户端过旧或分流规则把国内流量也送去代理。</p><div class=\"steps\"><div class=\"step\"><div class=\"num\">1</div><div class=\"body\"><h3>选择套餐并完成订阅</h3><p>在官方套餐区确认流量、设备数与是否需要 IPLC。下单后进入用户中心，确认订阅状态为有效。年付用户可一次获取全年额度，减少反复续费。</p></div></div><div class=\"step\"><div class=\"num\">2</div><div class=\"body\"><h3>复制机场订阅链接</h3><p>在用户中心选择 Clash、Surge 或通用格式链接并复制。不要把链接发到公开群组。若链接泄露，应立即在控制台重置订阅。</p></div></div><div class=\"step\"><div class=\"num\">3</div><div class=\"body\"><h3>下载对应客户端</h3><p>Windows 可用 v2rayN 或 Clash Verge；macOS 可用 Clash Meta / Surge；Android 用 Clash Meta；iOS 用 Shadowrocket 或 Stash。客户端安装包请从各应用官方渠道获取，本页只提供导入说明。</p></div></div><div class=\"step\"><div class=\"num\">4</div><div class=\"body\"><h3>导入配置并更新节点</h3><p>打开客户端的订阅/配置页面，粘贴 TNT 订阅地址，保存后手动更新。成功后应看到分组节点列表。若列表为空，检查是否复制了多余空格或使用了过期链接。</p></div></div><div class=\"step\"><div class=\"num\">5</div><div class=\"body\"><h3>选择节点并测试连通</h3><p>按延迟排序，优先选择负载较低的入口。先访问一个需要加速的站点确认通路，再打开流媒体或游戏。游戏用户建议关闭全局模式，仅代理必要域名。</p></div></div><div class=\"step\"><div class=\"num\">6</div><div class=\"body\"><h3>按场景调整分流</h3><p>办公可把协作工具加入代理列表；看视频切换原生解锁组；回国流量保持直连。团队版可申请定制路由，把指定网段固定到 VIP 节点。</p></div></div></div></section><section id=\"clients\"><h2>客户端下载与导入要点</h2><p>TNT 本身提供订阅而非闭源定制 App。请在设备应用商店或客户端项目的官方发布页获取安装包，再回到 TNT 用户中心复制订阅。下列为常见组合，链接仅作页内锚点索引。</p><div class=\"stagger\"><div class=\"col\"><h3>桌面端</h3><ul class=\"clean\"><li>Windows：v2rayN / Clash Verge，导入订阅后开启系统代理。</li><li>macOS：Clash Meta 或 Surge，注意授予网络扩展权限。</li><li>更新节点后如规则过旧，同步一次远程规则集。</li></ul><p><a href=\"#guide\">回到配置流程</a></p></div><div class=\"col\"><h3>移动端</h3><ul class=\"clean\"><li>Android：Clash Meta for Android，建议关闭省电限制以免掉线。</li><li>iOS：Shadowrocket / Stash，需可用的应用获取渠道。</li><li>同一订阅可多设备使用，但不要超过套餐同时在线数。</li></ul><p><a href=\"#faq\">查看导入常见问题</a></p></div></div><div class=\"panel\"><h3>官方下载说明</h3><p>本站不托管第三方安装包，以避免篡改风险。完成客户端安装后，只需保留一份 TNT 订阅地址。若更换设备，重复“复制链接—导入—更新节点”三步即可，无需重新注册。</p></div></section><section id=\"faq\"><h2>常见问题 FAQ</h2><details><summary>TNT 是什么？如何确认这是官网？</summary><p>TNT 是提供机场订阅与网络加速节点的服务品牌。请通过本页套餐公示、配置流程和站点地图识别官方信息，不要轻信来路不明的“代充”或镜像下载页。</p></details><details><summary>如何完成 TNT 客户端下载并导入订阅？</summary><p>先按设备安装 Clash、Shadowrocket、Surge 或 v2rayN，再登录 TNT 用户中心复制订阅链接，在客户端添加订阅并更新。导入成功的标志是出现可测速的节点列表。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>轻度浏览选基础版；需要原生流媒体与游戏加速选旗舰版；多人共用或要定制路由选团队版。设备数和月流量是硬限制，超出后应升级或错峰使用。</p></details><details><summary>节点连上了但视频仍然地区限制怎么办？</summary><p>切换到旗舰版标注的原生解锁或 IPLC 节点，并检查分流是否把播放域名走对线路。清除播放器缓存后重试。普通线路池主要用于网页加速，不保证全部影音解锁。</p></details><details><summary>同时在线设备超了会怎样？流量用完呢？</summary><p>超出同时在线上限时，新设备可能无法握手或旧设备被踢下线。流量用尽后加速通道会暂停，待次月重置或升级套餐后恢复。建议在客户端开启流量提醒。</p></details><details><summary>TNT 机场订阅能用在哪些协议上？</summary><p>常见客户端可识别 Clash 配置以及兼容的代理协议。具体可用协议以用户中心当前订阅为准。不要混用过期的手动节点，以免与自动更新冲突。</p></details><details><summary>游戏延迟仍然高，如何用 TNT 做加速器优化？</summary><p>选择 IPLC 专线组，关闭全局代理，仅让游戏与语音进程走代理。先测几条线路的延迟与丢包，固定一条而不是频繁自动切换。团队版 VIP 节点更适合长时间在线。</p></details></section><section id=\"ads\"><h2>合作推广</h2><div class=\"adbox\"><p>TNT 官方合作位：欢迎客户端教程站点、硬件评测与跨境办公工具与 TNT 进行内容互换。推广内容以文字链形式展示，不插入脚本或跳转不明下载包。</p><p><a href=\"#links\">查看友情链接</a> · <a href=\"#intro\">返回品牌简介</a></p></div></section><section id=\"links\"><h2>友情链接</h2><div class=\"friends\"><a href=\"#clients\">客户端导入指南</a><a href=\"#guide\">配置流程速查</a><a href=\"#plans\">套餐对照</a><a href=\"#faq\">FAQ 索引</a><a href=\"#sitemap\">站点地图</a><a href=\"#\">网络加速知识</a><a href=\"#\">分流规则说明</a><a href=\"#\">办公跨境工具</a></div></section><section id=\"sitemap\"><h2>站点地图</h2><div class=\"map\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#clients\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作推广</a><a href=\"#links\">友情链接</a></div><p>XML 站点地图入口：<a href=\"#sitemap\">https://www.tntofficial.com/sitemap</a>（本页锚点索引，便于抓取与人工浏览）。</p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"inner\"><p>© TNT 官方网站 · 机场订阅与 VPN 网络加速服务说明页</p><p>联系与工单请通过已开通套餐的用户中心提交。使用加速服务时请遵守当地法律。</p><p><a href=\"#intro\">回到顶部简介</a> · <a href=\"#guide\">配置流程</a> · <a href=\"#clients\">官方下载指引</a></p></div></footer>",
+          "hash": "0d81409d5a1d9ec166fd03e5619af19c8022f969340a30d2fc74357f3607f31b",
+          "seo": {
+            "title": "TNT官网｜机场订阅、VPN 梯子网络加速与客户端下载",
+            "keywords": "TNT,TNT官网,TNT机场,TNT VPN,梯子,网络加速,加速器,客户端下载,官方下载,机场订阅",
+            "description": "TNT 提供稳定机场订阅与多端加速客户端指引。本页说明套餐、配置流程、使用场景与官方下载方式，帮助你完成节点导入与网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "miaotk.cn",
+    "host": "p-3dc657eeee.miaotk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "miaotk.cn",
+      "url": "https://miaotk.cn/",
+      "label": "少数派",
+      "apex": "miaotk.cn",
+      "kind": null,
+      "identity": "bfyahuuga/page-bbdd0c35152c7a4436e430fb"
+    },
+    {
+      "host": "dlhxjd.cn",
+      "url": "https://dlhxjd.cn/",
+      "label": "TNT",
+      "apex": "dlhxjd.cn",
+      "kind": null,
+      "identity": "bmayjvtaa/page-a7a104d70b1ba4909ec42624"
+    },
+    {
+      "host": "jliaoy.cn",
+      "url": "https://jliaoy.cn/",
+      "label": "TNT",
+      "apex": "jliaoy.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-98d497d19845fa9a2c26efec"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "12c4e6a16ba96346cbb3c12e0ce0a39f4f412faf18eb6cd17cca730ed9df2f95",
+    "sitemap.xml": "e02a485dd7c4cc73409cb831c272c8d0d3cddcbc541c4eba451014647565f75a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f8704ddda833f09e856fb65bcdee6437c5339c2167014a652759f030b9ba5291",
+    "robots.txt": "2ce7c6cc62462b31e524a9c4005d265ac8659dd8f0634440968d0e7e91446551",
+    "f3568882a227d029210e94430618d3ea.txt": "c2c645c0cb7dd02b7116e8814d81e54d5c0e19d6092b9f32ebcb52f74eca143d"
+  },
+  "revision": "3b58ab54f8c388657aef2300029b4ab43337429389fc931ff8c999cd8a0a5a47"
+}
